@@ -1,4 +1,4 @@
-# test
+# challenge typescript
 
 To install dependencies:
 
