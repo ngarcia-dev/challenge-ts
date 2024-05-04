@@ -15,7 +15,7 @@ export class User {
     return this.casilla;
   }
 
-  public addNotificacion(notificacion: Notificacion) {
+  public sendNotification(notificacion: Notificacion) {
     this.casilla.push(notificacion);
   }
 }
